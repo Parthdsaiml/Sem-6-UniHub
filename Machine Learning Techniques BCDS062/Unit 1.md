@@ -59,7 +59,7 @@ Steps include:
 ---
 
 ### **Data Science vs. Machine Learning**
-- **Data Science**: A broader field that involves extracting insights from data using statistical analysis, visualization, and machine learning.
+- **Data Science**: A broader field that involves extracting insights from data using statistical analysis, visualization, and machine learning
 - **Machine Learning**: A subset of data science focused on building algorithms that learn from data to make predictions or decisions.
 
 ---
